@@ -1,4 +1,4 @@
-.py
+#app.py
 
 from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import StreamingResponse
